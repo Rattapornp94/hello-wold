@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T08:13:28.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="DpA0jLJHQQ9NI271k4Ep" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T08:22:50.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="c5icIvAxRnlX0GVRcIxY" version="13.6.10" type="github">
   <diagram id="ige9_82yQ3dsvCUjwejW" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,37 @@
         </mxCell>
         <mxCell id="pnB3yH5A7bhCn9vbz1Ak-33" value="4.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="-670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-35" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="-640" as="sourcePoint" />
+            <mxPoint x="291" y="-740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="291" y="-640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-36" value="NO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pnB3yH5A7bhCn9vbz1Ak-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="101" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-37" value="5.0&lt;br&gt;ทำรับสินค้าเข้าระบบ" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=12;align=center;verticalAlign=middle;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="439" y="-560" width="97" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-40" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="-591" as="sourcePoint" />
+            <mxPoint x="488" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-41" value="Yes" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pnB3yH5A7bhCn9vbz1Ak-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="19.5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pnB3yH5A7bhCn9vbz1Ak-42" value="Dr Inventory&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Cr Goods Received not purchase" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#3333FF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="490" y="-490" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
