@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T09:21:28.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="NAldk9l6t6HblLPksSl9" version="13.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-13T10:25:07.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="K6zvajHeguHa9nue3GY7" version="13.6.10" type="github" pages="3">
   <diagram id="ige9_82yQ3dsvCUjwejW" name="GR from Vendor">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -335,6 +335,111 @@
         </mxCell>
         <mxCell id="hBEYkr73S34xs4_Qr6Kx-5" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="NO235D1x3-emMFEgLI5B-1">
           <mxGeometry x="551.5" y="-810" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="GI to MO" id="fRwyEBE9OCb3hnB4dUiJ">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="vGRruus5_PryDd5FspFQ-0" />
+        <mxCell id="vGRruus5_PryDd5FspFQ-1" parent="vGRruus5_PryDd5FspFQ-0" />
+        <mxCell id="vGRruus5_PryDd5FspFQ-2" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-400" as="sourcePoint" />
+            <mxPoint x="40" y="-1081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-3" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-1080" as="sourcePoint" />
+            <mxPoint x="690" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-4" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-400" as="sourcePoint" />
+            <mxPoint x="370" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-5" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="689" y="-400" as="sourcePoint" />
+            <mxPoint x="689" y="-1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-6" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-1020" as="sourcePoint" />
+            <mxPoint x="690" y="-1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-7" value="หน่วยงานช่าง&lt;br style=&quot;font-size: 14px&quot;&gt;(Production)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="100" y="-1067" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-8" value="หน่วยงานคลังสินค้า&lt;br style=&quot;font-size: 14px&quot;&gt;(Warehouse)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="440" y="-1067" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-10" target="vGRruus5_PryDd5FspFQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-10" value="1.0&lt;br&gt;การผลิตสินค้า" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="150" y="-930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontSize=14;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-12" target="vGRruus5_PryDd5FspFQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-12" value="เริ่มต้น" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="155" y="-990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-14" target="vGRruus5_PryDd5FspFQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-14" value="3.0&lt;br&gt;ทำรับตัดสต็อคสินค้าออกจากระบบ" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=12;align=center;verticalAlign=middle;fillColor=#FFFF66;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="436" y="-825" width="114" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-15" value="Dr&amp;nbsp; Inventory&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Cr&amp;nbsp; Goods Received &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;not purchase&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;รอถามพี่แมวอีกครั้ง&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#3333FF;fontStyle=0" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="560" y="-825" width="127.5" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-25" value="จบการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="450" y="-490" width="86" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-26" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-400" as="sourcePoint" />
+            <mxPoint x="690" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-27" value="Auto Gen. GI number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="200" y="-920" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-30" target="vGRruus5_PryDd5FspFQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-30" value="ใบเบิกสินค้า" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="433" y="-716" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.474;entryY=0.171;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-32" target="vGRruus5_PryDd5FspFQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-32" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;2.0&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ตรวจสอบข้อมูลการขอเบิก และจัดเตรียมสินค้า&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;align=left;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="430" y="-925" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-37" target="vGRruus5_PryDd5FspFQ-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-37" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;4.0&lt;/span&gt;&lt;/div&gt;รับสินค้าและเซ็นต์ชื่อผู้เบิกสินค้าในเอกสารใบเบิกสินค้า" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="130" y="-714" width="120" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="vGRruus5_PryDd5FspFQ-1" source="vGRruus5_PryDd5FspFQ-40" target="vGRruus5_PryDd5FspFQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vGRruus5_PryDd5FspFQ-40" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;5.0&lt;/span&gt;&lt;/div&gt;เก็บเอกสารใบเบิกสินค้าเข้าแฟ้มเอกสาร" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;verticalAlign=top;" vertex="1" parent="vGRruus5_PryDd5FspFQ-1">
+          <mxGeometry x="433" y="-600" width="120" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
