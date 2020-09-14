@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T09:27:38.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="oev6n6QYjfTw5jgpuXVH" version="13.6.10" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-09-14T10:32:15.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xtEeYtJ-OCcz52VeEBYu" version="13.6.10" type="github" pages="8">
   <diagram id="YPJWakxR5hoAW3bLqq6q" name="Business Process Detail">
-    <mxGraphModel dx="868" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6N1DkxLzeiCpDjOfRm9A-0" />
         <mxCell id="6N1DkxLzeiCpDjOfRm9A-1" parent="6N1DkxLzeiCpDjOfRm9A-0" />
@@ -100,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ige9_82yQ3dsvCUjwejW" name="GR from Vendor">
-    <mxGraphModel dx="868" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GR from MO" id="h-kSD3I5Ks7TbJ6lvq_h">
-    <mxGraphModel dx="868" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NO235D1x3-emMFEgLI5B-0" />
         <mxCell id="NO235D1x3-emMFEgLI5B-1" parent="NO235D1x3-emMFEgLI5B-0" />
@@ -1109,7 +1109,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Return from Lend Internal&amp;External" id="nCjD4Jz-iw7ySo784fmb">
-    <mxGraphModel dx="868" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0uYJmI-iBi1JGKp4ZbAi-0" />
         <mxCell id="0uYJmI-iBi1JGKp4ZbAi-1" parent="0uYJmI-iBi1JGKp4ZbAi-0" />
