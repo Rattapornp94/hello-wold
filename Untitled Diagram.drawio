@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T13:38:38.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ABkMPOlY0aWQIHNsF3rK" version="13.6.10" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-09-21T14:02:12.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="f7AdDmcTI5hqi1dHjd5y" version="13.6.10" type="github" pages="9">
   <diagram id="YPJWakxR5hoAW3bLqq6q" name="Business Process Detail">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -921,7 +921,7 @@
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-1" parent="7Mo0qsX5zaCjsGyrUGS4-0" />
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-2" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="-20" as="sourcePoint" />
+            <mxPoint x="40" y="-160" as="sourcePoint" />
             <mxPoint x="40" y="-1081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -933,13 +933,13 @@
         </mxCell>
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-4" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="-20" as="sourcePoint" />
+            <mxPoint x="320" y="-160" as="sourcePoint" />
             <mxPoint x="320" y="-1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-5" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="-20" as="sourcePoint" />
+            <mxPoint x="600" y="-160" as="sourcePoint" />
             <mxPoint x="600" y="-1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -962,12 +962,12 @@
           <mxGeometry x="155" y="-990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-13" value="จบการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
-          <mxGeometry x="700" y="-89" width="86" height="29" as="geometry" />
+          <mxGeometry x="691" y="-289.5" width="86" height="29" as="geometry" />
         </mxCell>
         <mxCell id="7Mo0qsX5zaCjsGyrUGS4-14" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="39.5" y="-21" as="sourcePoint" />
-            <mxPoint x="840" y="-21" as="targetPoint" />
+            <mxPoint x="39.5" y="-160" as="sourcePoint" />
+            <mxPoint x="840" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="teHo97wCi1Yfme0isFdZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="7Mo0qsX5zaCjsGyrUGS4-22">
@@ -1013,7 +1013,7 @@
         </mxCell>
         <mxCell id="BfwmT16eYz3yjj01Mg64-0" value="" style="endArrow=none;html=1;strokeWidth=3;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="-20" as="sourcePoint" />
+            <mxPoint x="840" y="-160" as="sourcePoint" />
             <mxPoint x="840" y="-1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1028,7 +1028,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="teHo97wCi1Yfme0isFdZ-7" value="ใบส่งสินค้าคืน (ลูกค้า)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=10;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+        <mxCell id="teHo97wCi1Yfme0isFdZ-7" value="ใบส่งสินค้าคืน (ลูกค้า)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=11;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry x="130" y="-700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VnHS455H3QlJjzhEqfBN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="VnHS455H3QlJjzhEqfBN-1" target="7Mo0qsX5zaCjsGyrUGS4-22">
@@ -1036,6 +1036,46 @@
         </mxCell>
         <mxCell id="VnHS455H3QlJjzhEqfBN-1" value="&lt;div&gt;&lt;span&gt;3.0&lt;/span&gt;&lt;/div&gt;ตรวจรับสินค้าที่ส่งคืนกับเอกสารให้ตรงกัน และตรวจสอบข้อมูลตามกล่อง Return from Customer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;align=center;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
           <mxGeometry x="404" y="-828.5" width="146" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VnHS455H3QlJjzhEqfBN-6" value="ใบส่งสินค้าคืน (ลูกค้า)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=11;verticalAlign=top;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="417" y="-586" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="VnHS455H3QlJjzhEqfBN-7" target="HhLKhNUWW7GcAB_8J-xZ-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="-520" />
+              <mxPoint x="570" y="-520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnHS455H3QlJjzhEqfBN-7" value="ใบโอนสต็อค" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=11;verticalAlign=top;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="450" y="-560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="HhLKhNUWW7GcAB_8J-xZ-0" target="HhLKhNUWW7GcAB_8J-xZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-0" value="5.0&lt;br&gt;การจัดทำใบลดหนี้ (CN)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="693.25" y="-569.5" width="99.5" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="HhLKhNUWW7GcAB_8J-xZ-2" target="HhLKhNUWW7GcAB_8J-xZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-2" value="ใบลดหนี้ (CN)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;verticalAlign=middle;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="683" y="-430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cEwfCsz_p-aHIxo6pVP3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="HhLKhNUWW7GcAB_8J-xZ-4" target="cEwfCsz_p-aHIxo6pVP3-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HhLKhNUWW7GcAB_8J-xZ-4" value="&lt;div&gt;&lt;span&gt;6.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;จัดส่งเอกสารใบลดหนี้ (CN) ให้กับลูกค้า&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;verticalAlign=top;align=center;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="120" y="-425" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cEwfCsz_p-aHIxo6pVP3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="7Mo0qsX5zaCjsGyrUGS4-1" source="cEwfCsz_p-aHIxo6pVP3-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="-275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cEwfCsz_p-aHIxo6pVP3-0" value="&lt;div&gt;&lt;span&gt;7.0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;เมื่อลูกค้าเซ็นต์เอกสารแล้วส่งสำเนา ใบลดหนี้ ให้หน่วยงานบัญชี&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=center;verticalAlign=top;" vertex="1" parent="7Mo0qsX5zaCjsGyrUGS4-1">
+          <mxGeometry x="127.75" y="-310" width="136.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
